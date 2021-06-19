@@ -1,0 +1,14 @@
+C:\Users\Central\Documents\C#\texto\texto\bin\Debug\texto.exe.config
+C:\Users\Central\Documents\C#\texto\texto\bin\Debug\texto.exe
+C:\Users\Central\Documents\C#\texto\texto\bin\Debug\texto.pdb
+C:\Users\Central\Documents\C#\texto\texto\obj\Debug\texto.csproj.CoreCompileInputs.cache
+C:\Users\Central\Documents\C#\texto\texto\obj\Debug\texto.exe
+C:\Users\Central\Documents\C#\texto\texto\obj\Debug\texto.pdb
+C:\Users\Central\Documents\C#\texto\texto\obj\Debug\texto.csprojAssemblyReference.cache
+C:\Users\Central\Documents\projetos\texto\texto\bin\Debug\texto.exe.config
+C:\Users\Central\Documents\projetos\texto\texto\bin\Debug\texto.exe
+C:\Users\Central\Documents\projetos\texto\texto\bin\Debug\texto.pdb
+C:\Users\Central\Documents\projetos\texto\texto\obj\Debug\texto.csprojAssemblyReference.cache
+C:\Users\Central\Documents\projetos\texto\texto\obj\Debug\texto.csproj.CoreCompileInputs.cache
+C:\Users\Central\Documents\projetos\texto\texto\obj\Debug\texto.exe
+C:\Users\Central\Documents\projetos\texto\texto\obj\Debug\texto.pdb
